@@ -45,5 +45,5 @@
 |---------|------------|-----------|
 | **[DocPoint](https://github.com/inosgungun/DocPoint)** | MERN-based doctor appointment platform | [🔗 Live Demo](https://docpoint-frontend.onrender.com/) |
 | **[Chat with PDF](https://github.com/inosgungun/chat-with-pdf)** | LLM-powered document Q&A system | - |
-| **[B+ Tree](https://github.com/inosgungun/BPlus-Tree)** | Optimized C++ implementation | - |
+
 
