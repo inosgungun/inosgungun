@@ -44,7 +44,7 @@
 | Project | Description | Live Demo |
 |---------|------------|-----------|
 | **[DocPoint](https://github.com/inosgungun/DocPoint)** | MERN-based doctor appointment platform | [🔗 Live Demo](https://docpoint-frontend.onrender.com/) |
-| **[AceInterview](https://github.com/inosgungun/Ace-Interview)** | AI Mock Interview Platform using Next.js, Vapi SDK, firebase and Tailwind | [🔗 Live Demo](https://ace-interview-one.vercel.app/) |
+| **[AceInterview](https://github.com/inosgungun/Ace-Interview)** | AI Mock Interview Platform using Next.js, Vapi SDK, firebase and Tailwind CSS | [🔗 Live Demo](https://ace-interview-one.vercel.app/) |
 | **[Chat with PDF](https://github.com/inosgungun/chat-with-pdf)** | LLM-powered document Q&A system | - |
 
 
