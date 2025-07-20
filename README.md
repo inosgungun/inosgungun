@@ -48,6 +48,7 @@
 | **[DocPoint](https://github.com/inosgungun/DocPoint)** | MERN-based doctor appointment platform | [🔗 Live Demo](https://docpoint-frontend.onrender.com/) |
 | **[AceInterview](https://github.com/inosgungun/Ace-Interview)** | AI Mock Interview Platform using Next.js, Vapi SDK, firebase and Tailwind CSS | [🔗 Live Demo](https://ace-interview-one.vercel.app/) |
 | **[Chat with PDF](https://github.com/inosgungun/chat-with-pdf)** | LLM-powered document Q&A system | - |
+| **[SuperMarket-Billing-Management](https://github.com/inosgungun/SuperMarket-Billing-Management)** | A C++ console application that simulates a supermarket billing system. | - |
 | **[ShopSavvy](https://github.com/inosgungun/ShopSavvy)** | A modern, responsive shopping web application| [🔗 Live Demo](https://shop-savvy-mocha.vercel.app/) |
 | **[Todo-List](https://github.com/inosgungun/Todo-List)** | A clean and simple To-Do List built using HTML, CSS, and JavaScript. | [🔗 Live Demo](https://todolist-eight-sandy.vercel.app/) |
 
